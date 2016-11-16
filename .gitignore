@@ -1,0 +1,56 @@
+# sass
+/.sass-cache
+
+# node
+/node_modules
+
+#bower
+.bowerrc
+
+# yii console commands
+/yii
+/yii_test
+/yii_test.bat
+
+# phpstorm project files
+.idea
+
+# netbeans project files
+nbproject
+
+# zend studio for eclipse project files
+.buildpath
+.project
+.settings
+
+# windows thumbnail cache
+Thumbs.db
+
+# composer vendor dir
+/vendor
+
+# composer itself is not needed
+composer.phar
+
+# Mac DS_Store Files
+.DS_Store
+
+# phpunit itself is not needed
+phpunit.phar
+# local phpunit config
+/phpunit.xml
+
+# vagrant runtime
+/.vagrant
+
+# temporary files which can be created if a process still has a handle open of a deleted file
+ .fuse_hidden*
+
+# # KDE directory preferences
+ .directory
+
+# # Linux trash folder which might appear on any partition or disk
+ .Trash-*
+
+# # .nfs files are created when an open file is removed but is still being accessed
+ .nfs*
